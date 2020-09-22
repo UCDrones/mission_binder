@@ -1,0 +1,63 @@
+# (PART) Mission Documentation {-}
+
+# UC Drones Project or Flight Request
+
+**Place a copy or link to your UC Drones Project or Flight Request here**
+
+
+- Do not forget to include your mission plan and hazard analysis if it is attached as a separate file
+
+# Weather Forecast {#ch-weather}
+
+**Place a copy of link to the weather forecast during your flight operations
+
+# Airspace Information {#ch-airspace}
+
+**Document any airspace issues including**
+
+- Airspace Class
+- Nearby airports and heliports
+- Small landing strips, glider ports and sea ports
+- Areas of potential aviation activities - crop dusting, helicopter tours, VFR checkpoints
+
+**Look for and Review any NOTAMS and TFRs within your operating area**
+
+# Log of Recent UAS performance {#ch-performance-log}
+
+**Draft a review of the recent UAS performance and any relevant notes that may be useful to communicate during the preflight briefing.**
+
+# Emergency Contact Information {#ch-emergency}
+
+## UC Center of Excellence on UAS Safety
+
+**Contact Information**
+
+    Dr. Brandon Stark
+    (209) 201-2051
+    bstark2@ucmerced.edu
+    UASsafety@ucmerced.edu
+
+## Campus Designated Local Authority
+
+**Campus**
+
+---
+
+**Contact information for Campus Point of Contact**
+
+---
+
+List of Campus Point of Contact can be found here: https://ucdrones.github.io/ch-DLA.html
+
+
+## Nearest Emergency Facility
+
+**Enter Contact information for the nearest emergency facility**
+
+## UAS Operation Site
+
+**Address of UAS Operation Site**
+
+**Write out directions on how to get to the site from the nearest crossroad**
+
+ 

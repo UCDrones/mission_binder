@@ -1,0 +1,16 @@
+book_filename: "mission_binder"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: ["index.Rmd",
+            "ch-UAS.Rmd",
+            "ch-standard-guidance.Rmd",
+            "ch-fire-safety.Rmd",
+            "ch-cold-weather.Rmd",
+            "ch-hot-weather.Rmd",
+            "ch-battery-care.Rmd",
+            "ch-mission-documentation.Rmd",
+            "ch-footer.Rmd"]
+output_dir: "docs"
+edit: https://github.com/UCDrones/mission_binder/edit/master/%s

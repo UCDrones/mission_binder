@@ -1,0 +1,19 @@
+# Operations in Cold Weather {#ch-cold-weather}
+
+## Cold Environments
+
+- Before beginning flight operations, double check the weather conditions. Avoid  starting flight operations if there is potential for a shift in weather conditions, such as incoming strong winds, rain, and snow.
+- Do not fly in temperatures below $0^\circ$C ($32^\circ$F).
+- Avoid contact with snow. Moisture can damage the motors. Use a large landing pad for taking off and landing your UAS.
+- Expect to see a 10-15\% decrease in flight time - plan missions accordingly.
+
+
+## Battery Considerations {#cold-battery}
+
+- Only use fully charged batteries. 
+- Pre-warm batteries to $20^\circ$C ($68^\circ$F) or more. 
+- Check the battery temperature in DJI GO. 
+- Use an insulated cooler, or keep in a warm car to maintain temperature when not in use.
+- After launching, hover for about a minute to allow the battery to warm up.
+- Avoid aggressive flight maneuvers and land flights earlier than in normal weather.
+- Batteries drain faster in cold temperatures. Always check the UAS battery status during flight.

@@ -1,0 +1,31 @@
+--- 
+title: "UC Mission Binder"
+author: "UC Center of Excellence on UAS Safety"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Template for a UAS Mission Binder"
+---
+
+# Document Summary {.unnumbered}
+This document serves as a template for the assembly of a UAS Mission Binder for UAS operations within the University of California System.  It provides a set of standard guidance and supporting templates that the Flight Crew may utilize.  
+
+---
+
+`r if (knitr::is_html_output()) '
+
+This document may also be downloaded and printed using the download button in the toolbar at the top of the page.  It is available as a PDF or ePub file.  For best results, print double-sided.  
+
+## Contents {.unnumbered}
+
+- UAS Policy: link
+- UAS Standard Operating Procedures: link
+- UC Standard Guidance
+- Mission Documentation
+- Remote Pilot Certificate
+- Airspace Authorization or Waiver Documentation
+
+'`

@@ -1,0 +1,53 @@
+# Fire Safety {#ch-fire-safety}
+
+## Fire Risk Assessment and Planning
+
+- Assess fire risk by reviewing:
+    - Calfire Red Flag Warning
+    - Air Quality Index (AQI)
+    - Vegetation levels and condition
+        - Avoid operating above areas that are not viewable to monitor for fires started by a crashed UAS. 
+- Equipment to bring:
+    - Fire Extinguisher (ABC) for regular small fires
+    - Fire Extinguisher (D), or bucket of sand for LiPo fires
+    - Shovel (optional)
+    - Single-Use Fire Blankets (optional)
+- Planning for the worst case:
+    - Ensure that emergency communication systems are always available during flight operations.
+    - Ensure that all flight crew members can describe the flight operation location and how to get to the site to emergency personnel
+    - Ensure that all PPE is appropriate for the operation
+
+## Battery Fire
+
+- Secure the site.
+- Remove any other potential fire fuel or other fire hazards.
+- Use a Class ABC fire extinguisher to extinguish and control any secondary fires.
+- Use a Class D fire extinguisher or a bucket of sand to extinguish the fire at the battery itself.
+- Avoid using water - if no other option, submerge the entire battery in water. 
+- If you are unable to extinguish the fire:
+    - Call emergency services
+    - Stop all fire suppression efforts and begin minimizing potential damage by clearing the area and removing other potential fire hazards
+- DO NOT COMPROMISE YOUR SAFETY
+
+## In-Flight or Post-Flight Fire
+
+- Maintain visual contact with UAS
+- Communicate the situation to the Flight Crew
+- Verify 
+    - Check state of UAS (Status/Flight Mode)
+    - Check UAS location/altitude 
+    - Check transmitter/tablet status and control links
+- Take Actions
+    - Ground Crew – Alert and clear flight area, prepare safety equipment
+    - Visual Observer – Be prepared to call emergency services
+    - RPIC – Immediately terminate flight
+- Issues
+    - If UAS sparks a ground fire:
+        - Secure site and attempt to extinguish the fire with Ground Crew
+    - If unable to extinguish fire: 
+        - Call emergency services
+        - Stop all fire suppression efforts and begin minimizing potential damage by clearing the area and removing other potential fire hazards
+    - DO NOT COMPROMISE YOUR SAFETY
+- Post-Incident
+    - Document incident
+    - Contact campus designated local authority or systemwide designated UAS authority 

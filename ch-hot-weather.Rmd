@@ -1,0 +1,22 @@
+# Operations in Hot Weather {#ch-hot_weather}
+
+## Hot Environments
+
+- Try to avoid flight operations in extreme heat or humidity levels.
+- Do not fly in temperatures above $110^\circ$C ($43^\circ$F).
+- Keep flights to short bursts, and rest the UAS in the shade between flight operations.
+- Monitor the controller and tablet temperature. Avoid direct sunlight.
+- If possible, try to operate under shade or a small canopy.
+- Expect to see a 10-15\% decrease in flight time - plan missions accordingly.
+
+
+## Battery Considerations {#hot-battery}
+
+- Only use fully charged batteries.
+- Never use batteries that are abnormally hot to the touch.
+- Check the battery temperature in DJI GO. 
+- Use an insulated cooler and keep in the shade to keep cool when not in use.
+- Avoid aggressive flight maneuvers and land flights earlier than in normal weather.
+- Batteries drain faster in hot temperatures. Always check the UAS battery status during flight.
+- Never leave a battery in direct sunlight
+- After use, store the depleted battery in a well-ventilated area to allow it to cooldown.  Do not place in a storage case or bag.
