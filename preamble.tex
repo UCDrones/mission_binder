@@ -1,14 +1,10 @@
 \usepackage{booktabs}
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
-\usepackage{tocloft}
+
 \usepackage{fancyhdr}
 \pagestyle{plain}
 
-% \cftpagenumbersoff{chapters}
-\addtocontents{toc}{\cftpagenumbersoff{part}}
-\addtocontents{toc}{\cftpagenumbersoff{chapter}}
-\addtocontents{toc}{\cftpagenumbersoff{section}} %% Similarly for subsection, figure... as you wish
-\renewcommand{\cftdot}{} %empty {} for no dots. you can have any symbol inside. For example put {\ensuremath{\ast}} and see what happens.
+
 
 \let\origdoublepage\cleardoublepage
 \newcommand{\clearemptydoublepage}{\clearpage{\pagestyle{empty}\origdoublepage}}
@@ -34,3 +30,4 @@
 
 \let\oldmaketitle\maketitle
 \AtBeginDocument{\let\maketitle\relax}
+\AtBeginDocument{\let\tableofcontents\relax}

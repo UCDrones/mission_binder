@@ -19,11 +19,15 @@
     - Most of the time, aerial threats will be heard before they are seen
     - However, do not rely on audio queues alone
 
-- Scanning the Horizon (Figure~\ref{fig:scanning)
+- Scanning the Horizon (Figure~\@ref(fig:scanning))
 
     - Start at the bottom-right or bottom-left
     - Sweep back and forth
     - After each sweep, look slightly higher and sweep back
+
+```{r scanning, fig.cap='Scanning for Air Traffic', out.width='75%', fig.asp=.75, fig.align='center', echo=FALSE}
+knitr::include_graphics('images/scanning.jpg')
+```
 
 - Avoid Empty Field Myopia
 
@@ -35,3 +39,4 @@
 
     - Always be ready to initiate a stop or failsafe command
     - Be aware of your surroundings and have escape routes planned out
+

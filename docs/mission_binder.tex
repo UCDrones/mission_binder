@@ -69,15 +69,11 @@
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \usepackage{booktabs}
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
-\usepackage{tocloft}
+
 \usepackage{fancyhdr}
 \pagestyle{plain}
 
-% \cftpagenumbersoff{chapters}
-\addtocontents{toc}{\cftpagenumbersoff{part}}
-\addtocontents{toc}{\cftpagenumbersoff{chapter}}
-\addtocontents{toc}{\cftpagenumbersoff{section}} %% Similarly for subsection, figure... as you wish
-\renewcommand{\cftdot}{} %empty {} for no dots. you can have any symbol inside. For example put {\ensuremath{\ast}} and see what happens.
+
 
 \let\origdoublepage\cleardoublepage
 \newcommand{\clearemptydoublepage}{\clearpage{\pagestyle{empty}\origdoublepage}}
@@ -103,12 +99,13 @@
 
 \let\oldmaketitle\maketitle
 \AtBeginDocument{\let\maketitle\relax}
+\AtBeginDocument{\let\tableofcontents\relax}
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
 \title{UC Mission Binder}
 \author{UC Center of Excellence on UAS Safety}
-\date{2020-09-22}
+\date{2020-09-25}
 
 \begin{document}
 \maketitle
@@ -133,7 +130,6 @@ Flight Crew: \hrulefill
 \end{center}
 
 \let\maketitle\oldmaketitle
-\maketitle
 
 {
 \setcounter{tocdepth}{1}
@@ -147,13 +143,36 @@ This document serves as a template for the assembly of a UAS Mission Binder for 
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
+\hypertarget{contents}{%
+\section*{Contents}\label{contents}}
+\addcontentsline{toc}{section}{Contents}
+
+\begin{itemize}
+\tightlist
+\item
+  UAS Policy: link
+\item
+  UAS Standard Operating Procedures: link
+\item
+  UC Standard Guidance
+\item
+  Mission Documentation
+\item
+  Remote Pilot Certificate
+\item
+  Airspace Authorization or Waiver Documentation
+\end{itemize}
+
+\hypertarget{ch-docs}{%
+\chapter{UC Documentation}\label{ch-docs}}
+
 \hypertarget{uc-policy}{%
-\chapter{UC Policy}\label{uc-policy}}
+\section{UC Policy}\label{uc-policy}}
 
 The UC UAS Policy can be found here: \url{https://policy.ucop.edu/doc/3500671/Drone}
 
 \hypertarget{uc-uas-operations-manual}{%
-\chapter{UC UAS Operations Manual}\label{uc-uas-operations-manual}}
+\section{UC UAS Operations Manual}\label{uc-uas-operations-manual}}
 
 The UC UAS Operations Manuals can be found at \url{https://ucdrones.github.io}
 
@@ -171,7 +190,67 @@ The UC UAS Operations Manuals can be found at \url{https://ucdrones.github.io}
 \hypertarget{standard-guidance}{%
 \chapter{Standard Guidance}\label{standard-guidance}}
 
-This is the typical set of operating instructions
+\begin{itemize}
+\tightlist
+\item
+  All UAS activity must establish a buffer or safe-zone between the Unmanned Aircraft and any non-participating persons or sensitive locations.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    A good rule-of-thumb is to maintain a buffer or safe-zone of roughly \(\frac{1}{4}^{th}\) of the flight altitude.
+  \end{itemize}
+\item
+  Visual Observers and supporting ground crew should be utilized when available.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Supporting ground crew should assist in ensuring safety to all non-participating persons.
+  \end{itemize}
+\item
+  All members of the flight crew must be conspicuous and wear professional, identifying apparel such as university-branded hats, shirts or lanyards with IDs.
+\item
+  High visibility reflective vests must be worn when operating near roads or in parking lots.\\
+\item
+  When operating in fenced areas, operate exclusively within the fenced areas unless there is sufficient visibility on the other side to ensure safety to non-participants.
+\end{itemize}
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.75\linewidth]{images/UAS_vest} 
+
+}
+
+\caption{UAS operators with high visiblity vests, UC Merced}\label{fig:hivis}
+\end{figure}
+
+\hypertarget{operating-on-campus-or-other-busy-locations}{%
+\section{Operating on Campus or other busy locations}\label{operating-on-campus-or-other-busy-locations}}
+
+\begin{itemize}
+\tightlist
+\item
+  Utilize the UC UAS Mission Planning Template (link) to systematically develop your flight plan
+\item
+  When operating in uncontrolled locations in proximity to non-participating persons, extra care should be exercised. Specific flight paths and altitudes should be pre-planned such that potential gaps in buffer or safe-zones can be identified.
+\item
+  High visibility vests are recommended, but not required when near nonparticipants or in public areas
+\item
+  Orange cones may be used to help communicate Unmanned Aircraft flight regions to non-participating persons, but are not fully sufficient.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Supplement any portable pedestrian control equipment (cones, caution tape, signs) with ground personnel
+  \end{itemize}
+\item
+  If spectators are expected, a supporting ground crew member should be tasked with preventing spectators from distracting the RPIC with questions or comments.
+\item
+  When operating near roads, a supporting ground crew member should be tasked with being located near the road to monitor traffic, and if necessary, retrieve a fallen Unmanned Aircraft before it becomes a road hazard.
+\item
+  Flying above buildings and structures minimizes risk to pedestrians, but it is recommended to contact the facility manager to explain the proposed operation and potential for risk.
+\end{itemize}
 
 \hypertarget{ch-fire-safety}{%
 \chapter{Fire Safety}\label{ch-fire-safety}}
