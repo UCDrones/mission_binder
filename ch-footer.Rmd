@@ -1,3 +1,4 @@
+`r if (knitr::is_latex_output())'
 # (PART) Other Documentation {-}
 
 # Remote Pilot Certificate
@@ -7,3 +8,5 @@
 # Airspace or Waiver Documentation
 
 **Append with any Airspace or Waiver Documentation**
+
+'`

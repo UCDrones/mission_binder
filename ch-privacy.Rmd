@@ -1,0 +1,18 @@
+# Privacy Guidelines
+
+In the United States today, the use of UAS for both recreation and commercial use are becoming ever more prominent. UAS may be used for a variety of applications, including photography and videography. The capture and use of photographs and videos from a UAS platform raises new concerns on the rights, privacies, and permissions that involve both the operators of UAS and individuals that are uninvolved in the operation. The University of California recognizes the important value of privacy and strives to achieve an appropriate balance ensuring an appropriate level of privacy, nurturing an environment of openness, honoring its obligation as a public institution to remain transparent while safe guarding information about individuals.
+
+**Best Practices**
+
+- **Do Not** use a UAS to monitor or record activities where there is a reasonable expectation of privacy.
+- **Do Not** use a UAS for unapproved recordings of any campus events or performances, or for any unlawful purposes.
+- **Do Not** fly a UAS over private property without prior approval.
+- **Do Not** use a UAS to harass people or intentionally disrupt events
+- **Do Not** use a UAS for the specific purpose of persistent and continuous collection of identifiable data about individuals without the consent of the data subjects.
+- **Do Not** retain identifiable data longer than reasonably necessary to fulfill a purpose.
+- **Do Not** knowingly publicly disclose data collected with a UAS without undertaking a reasonable effort to obfuscate or de-identify identifiable data unless the data subjects provide specific consent to the disclosure.
+- **Do** make a reasonable effort to provide prior notice to individuals of the general timeframe and area that they may anticipate a UAS intentionally collecting data.
+- **Do** establish and make available a Privacy Policy for UAS data if the UAS may intentionally or unintentionally collected identifiable data. The policy should be appropriate to the size and complexity of the data collected.
+- **Do** be considerate of other people's concerns over privacy, security and safety.
+- **Do** contact the Office of Research Compliance and Integrity if identifiable data is to be used for human-subject research.
+- **Do** take steps to ensure the security of any identifiable data.

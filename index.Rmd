@@ -20,11 +20,16 @@ This document serves as a template for the assembly of a UAS Mission Binder for 
 This document may also be downloaded and printed using the download button in the toolbar at the top of the page.  It is available as a PDF or ePub file.  For best results, print double-sided.  
 '`
 
-## Contents {.unnumbered}
+## Mission Binder Requirements {.unnumbered}
 
-- UAS Policy: link
-- UAS Standard Operating Procedures: link
+- UAS Policy: [link](https://policy.ucop.edu/doc/3500671/Drone)
+- UC Operation Manuals: [link](https://ucdrones.github.io/ch-user-guides.html)
 - UC Standard Guidance
-- Mission Documentation
+- Mission Documentation (Have available online or printed)
+    - UC Drone Approval
+    - Documented Procedures
+    - Risk Assessment
+    - Emergency Action Plans [Template Here](http://ucdrones.github.io/library/emergency_procedure_checklists.docx)
 - Remote Pilot Certificate
+- UAS Registration Certificate
 - Airspace Authorization or Waiver Documentation

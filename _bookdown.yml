@@ -6,6 +6,7 @@ language:
 rmd_files: ["index.Rmd",
             "ch-UAS.Rmd",
             "ch-standard-guidance.Rmd",
+            "ch-privacy.Rmd",
             "ch-fire-safety.Rmd",
             "ch-cold-weather.Rmd",
             "ch-hot-weather.Rmd",

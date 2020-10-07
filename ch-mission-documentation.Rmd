@@ -1,3 +1,4 @@
+`r if (knitr::is_latex_output())'
 # (PART) Mission Documentation {-}
 
 # UC Drones Project or Flight Request
@@ -59,5 +60,5 @@ List of Campus Point of Contact can be found here: https://ucdrones.github.io/ch
 **Address of UAS Operation Site**
 
 **Write out directions on how to get to the site from the nearest crossroad**
-
+'`
  
